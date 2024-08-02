@@ -28,6 +28,7 @@ import com.existing.sdk.BannerAd
 import com.existing.sdk.ExistingSdk
 import kotlinx.coroutines.launch
 
+// test comment
 class MainActivity : AppCompatActivity() {
     /** Container for rendering content from the SDK. */
     private lateinit var bannerAd: BannerAd
